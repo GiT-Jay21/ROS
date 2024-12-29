@@ -1,0 +1,4 @@
+[console_scripts]
+listener = fir_pk.subscriber:main
+talker = fir_pk.publisher:main
+
